@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Iron & Movie Addict. Coder by passion & profession as well as machine skeleton / anatomy enthusiast! :) ;) Are you a developer, facing problem? I have easy solutions for almost all the problem. Reach me, if you need help! Follow & stay connected, I'm happy to help new coders!
+I'm Iron 🏋️ & Movie 🎞️ Addict. 💻 Coder by passion & profession as well as machine skeleton / anatomy enthusiast! :) ;) Are you a developer, facing problem? I have easy solutions for almost all the problem. Reach me, if you need help! Follow & stay connected, I'm happy to help new coders!
 
 <!--
 **tuhin18003/tuhin18003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
