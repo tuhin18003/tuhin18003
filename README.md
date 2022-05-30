@@ -11,10 +11,10 @@ Ask me question at - [https://stackoverflow.com](https://stackoverflow.com/users
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin18003&langs_count=15&layout=compact)](https://github.com/tuhin18003/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin18003&langs_count=15&layout=compact)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin18003&langs_count=15&layout=compact)" />
 </a>
 
 <!--
