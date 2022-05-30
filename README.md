@@ -8,7 +8,7 @@ Ask me question at - [https://stackoverflow.com](https://stackoverflow.com/users
 ## Stats :chart_with_upwards_trend:
 
 <a href="https://github.com/tuhin18003">
-  <img src="[https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/4-productive-time.svg](https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)"              width="73%" />
+  <img src="https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/0-profile-details.svg" width="73%" />
 </a>
 <a href="https://github.com/tuhin18003">
   <img src="https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/4-productive-time.svg"              width="32%" />
