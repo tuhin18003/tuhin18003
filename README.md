@@ -9,7 +9,7 @@ Ask me question at - [https://stackoverflow.com](https://stackoverflow.com/users
 
 [![](https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/tuhin18003)
 <a href="">
-  <img src="https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/4-productive-time.svg"              style="max-width:32% !important" />
+  <img src="https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/4-productive-time.svg"              size="48px" />
 </a>
 [![](https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/tuhin18003)
 [![](https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/tuhin18003) [![](https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/tuhin18003)
