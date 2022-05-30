@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
-I'm a Typist by passion & profession as well as machine skeleton / anatomy enthusiast. Besides I'm Iron 🏋️ & Movie 🎞️ Addicted. I love to play pool and bike 🏍️ riding! Are you a developer, facing a problem? I have easy solutions for almost all the problems. Reach me, if you need help! Follow & stay connected, I'm happy to help new coders!
+Welcome! I'm a coder by passion & profession as well as machine skeleton / anatomy enthusiast. Besides I'm Iron 🏋️ & Movie 🎞️ Addicted. I love to play pool and bike 🏍️ riding! Are you a developer, facing a problem? I have easy solutions for almost all the problems. Reach me, if you need help! Follow & stay connected, I'm happy to help new coders!
 
 Ask me question at - [https://stackoverflow.com](https://stackoverflow.com/users/1709631/tuhin)
 
