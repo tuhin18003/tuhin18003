@@ -15,22 +15,24 @@ Ask me question at - [https://stackoverflow.com](https://stackoverflow.com/users
 </a>
 
 <a href="https://github.com/tuhin18003">
-  <img src="https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg" width="31.7%" />
+  <img src="https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg" width="32%" />
 </a>
 
 <a href="https://github.com/tuhin18003">
-  <img src="https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" width="31.7%" />
+  <img src="https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" width="32%" />
 </a>
 
 <a href="https://github.com/tuhin18003">
-  <img src="https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/3-stats.svg" width="31.7%" />
+  <img src="https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/3-stats.svg" width="32.1%" />
 </a>
 
+<a href="https://github.com/tuhin18003">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuhin18003&show_icons=true&theme=radical" width="32.1%" />
+</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuhin18003&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin18003&langs_count=15&layout=compact)](https://github.com/tuhin18003/tuhin18003)
-
+<a href="https://github.com/tuhin18003">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin18003&langs_count=15&layout=compact" width="32.1%" />
+</a>
 
 
 <!--
