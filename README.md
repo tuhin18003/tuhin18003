@@ -7,7 +7,6 @@ Ask me question at - [https://stackoverflow.com](https://stackoverflow.com/users
 
 ## Stats :chart_with_upwards_trend:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuhin18003&theme=vue
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuhin18003&show_icons=true&theme=radical)
 
