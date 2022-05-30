@@ -10,6 +10,9 @@ Ask me question at - [https://stackoverflow.com](https://stackoverflow.com/users
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin18003)](https://github.com/tuhin18003/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin18003&exclude_repo=github-readme-stats,tuhin18003.github.io)](https://github.com/tuhin18003/github-readme-stats)
+
+
 <!--
 **tuhin18003/tuhin18003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
