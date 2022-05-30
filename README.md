@@ -7,9 +7,11 @@ Ask me question at - [https://stackoverflow.com](https://stackoverflow.com/users
 
 ## Stats :chart_with_upwards_trend:
 
-[![](https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/tuhin18003)
-<a href="">
-  <img src="https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/4-productive-time.svg"              width="48px" />
+<a href="https://github.com/tuhin18003">
+  <img src="[https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/4-productive-time.svg](https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)"              width="73%" />
+</a>
+<a href="https://github.com/tuhin18003">
+  <img src="https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/4-productive-time.svg"              width="32%" />
 </a>
 [![](https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/tuhin18003)
 [![](https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/tuhin18003) [![](https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/tuhin18003)
