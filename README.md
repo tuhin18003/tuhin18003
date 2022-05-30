@@ -6,10 +6,7 @@ Ask me question at - [https://stackoverflow.com](https://stackoverflow.com/users
 
 
 ## Stats :chart_with_upwards_trend:
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tuhin18003)](https://github.com/tuhin18003/)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuhin18003&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuhin18003&show_icons=true&theme=radical)
 
 <!--
 **tuhin18003/tuhin18003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
