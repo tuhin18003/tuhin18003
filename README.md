@@ -6,6 +6,9 @@ Ask me question at - [https://stackoverflow.com](https://stackoverflow.com/users
 
 
 ## Stats :chart_with_upwards_trend:
+<a href="https://github.com/tuhin18003">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuhin18003&show_icons=true&theme=radical" width="97%" />
+</a>
 
 <a href="https://github.com/tuhin18003">
   <img src="https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/0-profile-details.svg" width="65%" />
@@ -26,9 +29,7 @@ Ask me question at - [https://stackoverflow.com](https://stackoverflow.com/users
   <img src="https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/3-stats.svg" width="32.1%" />
 </a>
 
-<a href="https://github.com/tuhin18003">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuhin18003&show_icons=true&theme=radical" width="32.1%" />
-</a>
+
 
 <a href="https://github.com/tuhin18003">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin18003&langs_count=15&layout=compact" width="32.1%" />
