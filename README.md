@@ -4,7 +4,7 @@ Welcome to the play ground of a coder by passion & profession who is Iron ğŸ‹ï¸
 
 Ask me question at - [https://stackoverflow.com](https://stackoverflow.com/users/1709631/tuhin)
 
-<hr/>
+<br/>
 
 <a href="https://github.com/tuhin18003">
   <img src="https://github-readme-stats.vercel.app/api?username=tuhin18003&show_icons=true&theme=radical" width="97%" />
