@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Welcome to the play ground of a coder by passion & profession who is Iron 🏋️ & Movie 🎞️ addicted as well as love to play Pool and Bike 🏍️ riding! Are you a developer  facing problem? Reach me, if you need help! Follow & stay connected, I'm happy to help new coders!
+Welcome to the play ground of a coder by passion & profession who is Iron 🏋️ & Movie 🎞️ addicted as well as love to play Pool and Bike 🏍️ riding! Are you a developer  & facing problem on your project? Reach me, if you need help! Follow & stay connected, I'm happy to help new coders!
 
 Ask me question at - [https://stackoverflow.com](https://stackoverflow.com/users/1709631/tuhin)
 
