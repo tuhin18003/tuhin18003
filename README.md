@@ -9,11 +9,11 @@ Ask me question at - [https://stackoverflow.com](https://stackoverflow.com/users
 
 
 <a href="https://github.com/tuhin18003">
-  <img src="https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/0-profile-details.svg" width="65%" />
+  <img src="https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/solarized_dark/0-profile-details.svg" width="47%" />
 </a>
 
 <a href="https://github.com/tuhin18003">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuhin18003&show_icons=true&theme=radical" width="31.7%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tuhin18003&show_icons=true&theme=radical" width="47%" />
 </a>
 
 <a href="https://github.com/tuhin18003">
